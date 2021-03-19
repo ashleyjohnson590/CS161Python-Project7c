@@ -1,0 +1,41 @@
+project 7.c
+Criteria	Ratings	Pts
+explanation of difference
+5 pts
+clear, coherent explanation
+3 pts
+explanation that is cursory, minimal, vague or disorganized
+0 pts
+no explanation
+Comments
+You do a good job defining the two terms, but you should spend a little more time explaining how they are different. How can a person new to computer programming tell when rebinding or mutation is taking place? Is mutating only happening on lists? Can rebinding happen with lists also? This prompt wanted you to do some compare/contrast between the two and explain what makes them different, but you are just defining them both separately.
+4 / 5 pts
+code example correctness
+5 pts
+code contains no errors
+code contains no errors (besides any being used to illustrate the difference)
+3 pts
+code contains only very minor errors
+code contains only very minor errors (besides any being used to illustrate the difference)
+0 pts
+no code example
+5 / 5 pts
+code example relevance
+5 pts
+code example is clearly relevant
+3 pts
+code example is not clearly relevant
+0 pts
+no code example
+5 / 5 pts
+explanation of why code example might trip someone up
+5 pts
+clear, coherent explanation
+3 pts
+explanation that is cursory, minimal, vague or disorganized
+0 pts
+no explanation
+Comments
+The explanation of why someone might be confused is really short, and doesn't explain in enough detail
+3 / 5 pts
+Total Points: 17
